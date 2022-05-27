@@ -1,0 +1,3 @@
+{
+    "files": ["dataloader.py","main.py","ui_window.py","window.ui","traindlg.ui","ui_traindlg.py"]
+}
